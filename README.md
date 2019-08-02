@@ -14,7 +14,7 @@ Note - I used Python 3.7.3 so depending on what you have installed/what you have
     A. On Windows with powershell/git bash. Navigate to the folder that contains the venv folder -  
       venv\Scripts\activate  
      
-    B. On linux shell. Navigate to the folder that contains the venv folder - 
+    B. On linux shell. Navigate to the folder that contains the venv folder -  
       source venv/bin/activate
  
 3. Once virtual environment is activated, install python package dependencies through pip. Make sure you're in the folder that has requirements.txt -   
